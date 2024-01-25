@@ -60,5 +60,5 @@
 
 
 
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота](ссылка на скриншот)`
+
+![redis](https://github.com/smabramov/Caching-Redis-and-Memcached/blob/ad90892af092fa8bfabae10fc08bb490c1002ec0/img/redis.png)
